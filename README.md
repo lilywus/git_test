@@ -1,3 +1,8 @@
-# git_test
-Test repository for Odin Project Foundations Course
-Hello Odin!
+# Odin Recipes
+
+Recipe project for the Odin Project Foundation course.
+
+Skills involved:
+- git (using Mac Terminal)
+- HTML
+- CSS
