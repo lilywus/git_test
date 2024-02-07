@@ -1,0 +1,35 @@
+body {
+    padding: 1% 9%;
+    background-color: lightyellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: royalblue;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a.recipelink {
+    color: whitesmoke;
+    width: 300px;
+    padding: 10px;
+    background-color: royalblue;
+}
+
+a.recipelink:hover {
+    color: royalblue;
+    background-color: whitesmoke;
+}
+
+li {
+    margin-top: 10px;
+}
+
+li.homelink {
+    list-style-type: none;
+    margin: 30px;
+}
